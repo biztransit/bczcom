@@ -1,10 +1,11 @@
 # BCZ.com Platform Issues
 
-We have just migrated our ticketing issue system to github!
+Our ticketing issue system has been recently moved to Github!
 
-Please login and post all issues related to BCZ.com usage here.
-
+Kindly log in to the platform and submit all BCZ.com usage-related problems on the following link:
 
 https://github.com/biztransit/bczcom/issues
 
-Thank you
+We will regularly update this page with additional comprehensive information.
+
+Thank you for your cooperation.

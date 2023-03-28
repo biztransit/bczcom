@@ -10,4 +10,4 @@ We will regularly update this page with additional comprehensive information.
 
 Thank you for your cooperation.
 
-biztransit manages and handles all support enquiries on for bcz.com
+biztransit manages and handles all support enquiries on for <a href="https://bcz.com/">bcz.com</a>

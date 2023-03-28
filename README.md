@@ -9,3 +9,5 @@ https://github.com/biztransit/bczcom/issues
 We will regularly update this page with additional comprehensive information.
 
 Thank you for your cooperation.
+
+biztransit manages and handles all support enquiries on for bcz.com
